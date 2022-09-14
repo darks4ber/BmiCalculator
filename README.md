@@ -8,7 +8,6 @@ Home screen             |  Result screen
 # ![Web home screen](/.github/screenshot/web/web_screenshot_home.png?raw=true "Web home screen")  |  ![Web result screen](/.github/screenshot/web/web_screenshot_result.png?raw=true "Web result screen")
 
   
-<h2>Contribution is needed</h2>
 
 
 ### Thank you.
